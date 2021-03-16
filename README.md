@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @imwill
-- 👀 I’m interested in Digital Nomad living, Hacking Culture, and DJing
-- 🌱 I’m currently learning software deployment and programming at Amazon
-- 💞️ I’m looking to collaborate on a hacker news clone built with a modern framework
-- 📫 How to reach me: just shoot me an email! imwill@hey.com
-- 💻 Visit my blog at https://imwill.blog
+- 👋 Hey, I’m known on the internet as @imwill
+- 🚐 I'm a Digital Nomad
+- 💻 I'm a Hacker
+- 🎧 I'm a DJay
 
 <!---
 imwill/imwill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
