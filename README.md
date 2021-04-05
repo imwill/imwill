@@ -1,5 +1,5 @@
-- 👋 Hey, I’m known on the internet as @imwill
-- 🚐 Digital Nomad
-- 💻 Hacker
+- 👋 Hey, I’m Will
+- 🏝 Nomad
 - 🎧 DJay
+- 💻 Hacker
 - 💌 imwill@hey.com
